@@ -1,3 +1,5 @@
+package edu.orangecoastcollege.cs273.magicanswer;
+
 import android.hardware.Sensor;
 import android.hardware.SensorEvent;
 import android.hardware.SensorEventListener;
